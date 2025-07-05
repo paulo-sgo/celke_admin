@@ -1,0 +1,16 @@
+{
+    "name": "paulo/celk_admin",
+    "description": "sistem administrativo",
+    "autoload": {
+        "psr-4": {
+            "App\\":"app"
+        }
+    },
+    "authors": [
+        {
+            "name": "Paulo",
+            "email": "paulo-sgo@hotmail.com"
+        }
+    ],
+    "require": {}
+}
