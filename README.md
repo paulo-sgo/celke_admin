@@ -45,12 +45,13 @@ git pull
 ```
 
 Adiconar todos os arquivos modificados no staging area - ára de preparação
-``
-git add .
+
+```
+git add 
 
 git commit -m "descrição do commit"
 
 
 git push origin dev-master
-```
+
 
